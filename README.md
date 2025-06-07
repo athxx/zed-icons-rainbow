@@ -1,5 +1,7 @@
-# VSCode Icons for Zed
+# Rainbow Icons for Zed
 
-This extension is a port of [vscode-icons](https://github.com/vscode-icons/vscode-icons) for the [Zed](https://zed.dev) editor.
+This extension is a port of [rainbow-icons](https://github.com/athxx/zed-icons-rainbow) for the [Zed](https://zed.dev) editor.
 
-It provides 2 icon sets, one suited for light themes and the other for dark themes.
+<p align="center">
+	<img src="https://raw.githubusercontent.com/athxx/zed-icons-rainbow/refs/heads/main/preview.png"/>
+</p>
